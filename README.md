@@ -6,7 +6,7 @@ A lightweight, zero-config Alpine.js directive to inject custom animated GIFs of
 
 
 ## 2. Basic Usage
-Wrap your text in a container using `x-data="emojiApp({...})"` and add the `x-emoji` directive.
+Wrap your text in a container using `x-data="emojiApp({...})"` and add the `x-emoji` directive.<br>
 ⚠️ Emojis MUST be 1x1 or else it will be rejected
 
 ```html
