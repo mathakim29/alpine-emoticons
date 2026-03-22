@@ -3,13 +3,7 @@ A lightweight, zero-config Alpine.js directive to inject custom animated GIFs of
 ## 1. Installation
 1. Install latest version of AlpineJS 
 2. Include `alpine-emoticons` script tag on your `<head>` 
-```html
-<!-- full version -->
-<script src="">
 
-<!-- or minified -->
-<script src="">
-```
 
 ## 2. Basic Usage
 Wrap your text in a container using `x-data="emojiApp({...})"` and add the `x-emoji` directive.
